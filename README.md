@@ -13,5 +13,7 @@ $perl generate_map <vertical width> <height width> <density>
 run code
 ```
 $ make
+```
+```
 $ ./bsq <map_file_name>
 ``` 
