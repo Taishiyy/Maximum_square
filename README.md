@@ -1,5 +1,6 @@
 ## Maximum square problem
-Practice of DP, command line arguments, malloc, free, and exception handling. 
+Practice of DP, command line arguments, malloc, free, and exception handling.  
+The following command will display the largest square in the grid.
 
 **Downloading and run command**  
 clone this repository
