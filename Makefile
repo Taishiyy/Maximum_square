@@ -1,5 +1,4 @@
 NAME = bsq
-INCLUDE = main.h
 
 SRCS = main.c \
 	   solve.c \
@@ -12,7 +11,7 @@ SRCS = main.c \
 OBJS = $(SRCS:.c=.o)
 
 CC = cc
-CFLAGS = -Wall -Wextra -Werror -I $(INCLUDE)
+CFLAGS = -Wall -Wextra -Werror
 RM = rm -f
 
 all: $(NAME)
